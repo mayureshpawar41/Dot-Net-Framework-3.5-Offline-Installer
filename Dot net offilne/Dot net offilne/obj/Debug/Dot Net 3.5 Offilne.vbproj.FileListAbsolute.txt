@@ -1,0 +1,12 @@
+C:\Users\Developer\Documents\Visual Studio 2005\Projects\Dot net offilne\Dot net offilne\obj\Debug\Dot_net_offilne.DotNet.resources
+C:\Users\Developer\Documents\Visual Studio 2005\Projects\Dot net offilne\Dot net offilne\obj\Debug\Dot_net_offilne.Resources.resources
+C:\Users\Developer\Documents\Visual Studio 2005\Projects\Dot net offilne\Dot net offilne\obj\Debug\Dot Net 3.5 Offilne.vbproj.GenerateResource.Cache
+C:\Users\Developer\Documents\Visual Studio 2005\Projects\Dot net offilne\Dot net offilne\obj\Debug\Dot Net 3.5 Offilne.vbproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\Visual Studio 2005\Projects\Dot net offilne\Dot net offilne\bin\Debug\Dot Net 3.5 Offilne.exe.config
+C:\Users\Developer\Documents\Visual Studio 2005\Projects\Dot net offilne\Dot net offilne\bin\Debug\Dot Net 3.5 Offilne.exe
+C:\Users\Developer\Documents\Visual Studio 2005\Projects\Dot net offilne\Dot net offilne\bin\Debug\Dot Net 3.5 Offilne.pdb
+C:\Users\Developer\Documents\Visual Studio 2005\Projects\Dot net offilne\Dot net offilne\bin\Debug\Dot Net 3.5 Offilne.xml
+C:\Users\Developer\Documents\Visual Studio 2005\Projects\Dot net offilne\Dot net offilne\obj\Debug\Dot Net 3.5 Offilne.exe
+C:\Users\Developer\Documents\Visual Studio 2005\Projects\Dot net offilne\Dot net offilne\obj\Debug\Dot Net 3.5 Offilne.xml
+C:\Users\Developer\Documents\Visual Studio 2005\Projects\Dot net offilne\Dot net offilne\obj\Debug\Dot Net 3.5 Offilne.pdb
+C:\Users\Developer\Documents\Visual Studio 2005\Projects\Dot net offilne\Dot net offilne\obj\Debug\Dot Net 3.5 Offilne.vbprojResolveAssemblyReference.cache
